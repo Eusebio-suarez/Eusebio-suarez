@@ -20,6 +20,8 @@ Desarrollador de software apasionado por el desarrollo **front-end**. Me encanta
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwindcss&logoColor=fff)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=fff)
+![JWT](https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens&logoColor=fff)
 
 ---
 
