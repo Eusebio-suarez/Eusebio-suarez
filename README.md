@@ -1,16 +1,23 @@
-# ¡Hola! 👋 Soy Eusebio Suárez
+# ¡Hola, soy Eusebio Suárez! 👋✨
 
-Desarrollador de software apasionado por el desarrollo **front-end**. Me encanta crear experiencias de usuario atractivas, eficientes y modernas. Siempre busco aprender nuevas tecnologías y mejorar mis habilidades día a día.
+<img align="right" src="https://avatars.githubusercontent.com/u/your-github-user-id?v=4" alt="Eusebio Suárez" width="140" />
+
+Desarrollador de software apasionado por el **front-end** y por crear experiencias web atractivas, eficientes y modernas. Siempre en busca de nuevos retos, tecnologías y formas de superarme día a día.
 
 ---
 
 ## 💡 Sobre mí
 
-- 🎯 Especializado en desarrollo front-end, pero con experiencia fullstack.
-- 🚀 Apasionado por el diseño, la accesibilidad y la optimización web.
-- 💬 Siempre abierto a colaborar en nuevos proyectos y retos tecnológicos.
+- 👨‍💻 Especialista en desarrollo **front-end** con perspectiva **fullstack**.
+- 🎨 Amante del diseño, la accesibilidad y la optimización web.
+- 🤝 Colaborador entusiasta en proyectos y retos tecnológicos.
+- 📚 Aprendiz incansable: siempre explorando nuevas herramientas y metodologías.
+
+---
 
 ## 🛠️ Tecnologías & Herramientas
+
+<div align="center">
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=222)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)
@@ -23,22 +30,29 @@ Desarrollador de software apasionado por el desarrollo **front-end**. Me encanta
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=fff)
 ![JWT](https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens&logoColor=fff)
 
+</div>
+
 ---
 
 ## 🚩 Proyectos Destacados
 
-- [E-commerce Back](https://github.com/Eusebio-suarez/e-commerce-back) — API robusta para gestión de productos y pedidos.
-- [E-commerce Front](https://github.com/Eusebio-suarez/e-commerce-front) — Interfaz moderna y dinámica para tiendas online.
-- [Portafolio Personal](https://github.com/Eusebio-suarez/portfolio) — Mi espacio en la web, donde recopilo proyectos y experiencias.
+- [🛒 E-commerce Back](https://github.com/Eusebio-suarez/e-commerce-back): API robusta para gestión de productos y pedidos.
+- [🛍️ E-commerce Front](https://github.com/Eusebio-suarez/e-commerce-front): Interfaz moderna y dinámica para tiendas online.
+- [🖥️ Portafolio Personal](https://github.com/Eusebio-suarez/portfolio): Mi espacio web donde recopilo proyectos y experiencias.
 
 ---
 
-## 📫 Contacto
+## 🌎 Conecta conmigo
 
-- [LinkedIn](https://www.linkedin.com/in/eusebio-suarez-martinez-999891273/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/eusebio-suarez-martinez-999891273/)
 
 ---
 
-> “El mejor código es el que sigue evolucionando.” 🚀
+> 🚀 “El mejor código es el que sigue evolucionando.”
 
-¡Gracias por visitar mi perfil!
+---
+
+<div align="center">
+  <b>¡Gracias por visitar mi perfil!<br />
+  No dudes en contactarme para colaborar o simplemente charlar sobre tecnología 🎉</b>
+</div>
