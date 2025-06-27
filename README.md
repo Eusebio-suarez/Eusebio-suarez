@@ -1,7 +1,5 @@
 # ¡Hola, soy Eusebio Suárez! 👋✨
 
-<img align="right" src="https://avatars.githubusercontent.com/u/Eusebio_suarez-id?v=4" alt="Eusebio Suárez" width="140" />
-
 Desarrollador de software apasionado por el **front-end** y por crear experiencias web atractivas, eficientes y modernas. Siempre en busca de nuevos retos, tecnologías y formas de superarme día a día.
 
 ---
