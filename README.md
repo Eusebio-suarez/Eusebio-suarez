@@ -13,6 +13,16 @@ Desarrollador de software apasionado por el **front-end** y por crear experienci
 
 ---
 
+---
+
+## 🚩 Proyectos Destacados
+
+- [🛒 E-commerce Back](https://github.com/Eusebio-suarez/e-commerce-back): API robusta para gestión de productos y pedidos.
+- [🛍️ E-commerce Front](https://github.com/Eusebio-suarez/e-commerce-front): Interfaz moderna y dinámica para tiendas online.
+- [🖥️ Portafolio Personal](https://github.com/Eusebio-suarez/portfolio): Mi espacio web donde recopilo proyectos y experiencias.
+
+---
+
 ## 🛠️ Tecnologías & Herramientas
 
 <div align="center">
@@ -28,17 +38,9 @@ Desarrollador de software apasionado por el **front-end** y por crear experienci
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=fff)
 ![JWT](https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens&logoColor=fff)
 
+<img width="300" height="165" alt="image" src="https://github.com/user-attachments/assets/a1ba9ec7-a660-463c-bc39-7fafc6d95b3f" />
+
 </div>
-
----
-
-## 🚩 Proyectos Destacados
-
-- [🛒 E-commerce Back](https://github.com/Eusebio-suarez/e-commerce-back): API robusta para gestión de productos y pedidos.
-- [🛍️ E-commerce Front](https://github.com/Eusebio-suarez/e-commerce-front): Interfaz moderna y dinámica para tiendas online.
-- [🖥️ Portafolio Personal](https://github.com/Eusebio-suarez/portfolio): Mi espacio web donde recopilo proyectos y experiencias.
-
----
 
 ## 🌎 Conecta conmigo
 
