@@ -10,12 +10,10 @@
 
 ## 💡 Sobre mí
 
-Soy un **Tecnólogo en análisis y desarrollo de software** apasionado por el desarrollo **backend**. Me he formado en tecnologías modernas con una perspectiva **fullstack**, lo que me permite analizar y colaborar eficazmente entre equipos de desarrollo para crear soluciones de software efectivas y escalables.
+**Tecnólogo en análisis y desarrollo de software** apasionado por la tecnología, responsable y comprometido con la colaboración entre equipos de desarrollo para dar soluciones de software efectivas y escalables.
 
 * 🎓 **Educación:** Tecnólogo en Análisis y Desarrollo de Software (SENA Regional Quindío).
 * 🗣️ **Idiomas:** Español (Nativo) e Inglés (Intermedio/Cursando).
-* 🚀 **Enfoque:** Creación de APIs robustas, bases de datos y automatización.
-
 ---
 
 ## 🛠️ Tecnologías y Herramientas
@@ -55,7 +53,7 @@ He trabajado y me he formado con las siguientes tecnologías:
 
 * [🛒 E-commerce Back](https://github.com/Eusebio-suarez/e-commerce-back): API robusta para gestión de productos y pedidos.
 * [🛍️ E-commerce Front](https://github.com/Eusebio-suarez/e-commerce-front): Interfaz moderna y dinámica para tiendas online.
-* [🖥️ Portafolio Personal](https://github.com/Eusebio-suarez/portfolio): Mi espacio web donde recopilo proyectos y experiencias.
+* [🖥️ Portafolio Personal](http://portafolio-sandy-one-59.vercel.app): Mi espacio web donde recopilo proyectos y experiencias.
 
 ---
 
@@ -71,5 +69,5 @@ He trabajado y me he formado con las siguientes tecnologías:
 ---
 
 <div align="center">
-  <i>"El mejor código es el que sigue evolucionando."</i>
+  <i>𝗟𝗮 𝗱𝗶𝘀𝗰𝗶𝗽𝗹𝗶𝗻𝗮 𝗲𝘀 𝗹𝗮 𝗽𝗮𝗿𝘁𝗲 𝗺𝗮𝘀 𝗶𝗺𝗽𝗼𝗿𝘁𝗮𝗻𝘁𝗲 𝗱𝗲𝗹 𝗲𝘅𝗶𝘁𝗼</i>
 </div>
