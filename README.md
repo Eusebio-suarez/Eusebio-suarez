@@ -66,7 +66,7 @@ Aplicación web de empleo para estudiantes potenciada con Inteligencia Artificia
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@eusebio-suarez)
 
 **WhatsApp:** +57 312 264 4002  
-**Email:** eusebio@email.com
+**Email:** eusebiosuaresmartines@gmail.com
 
 </div>
 
